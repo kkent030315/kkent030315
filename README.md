@@ -4,9 +4,17 @@
 
 # Socials
 
+![IMAGE](social3.png)
+
 Github.io: https://kkent030315.github.io/  
 
 Github: https://github.com/kkent030315  
 Qiita: https://qiita.com/kkent030315
 
-More things will be updated shortly.
+# 💥 Algorithms
+
+![IMAGE](math2.jpeg)
+
+- [AES Implementation Using C#](https://github.com/kkent030315/CSharp-AES-Algorhythm)
+- [SHA256 Implementation Using C#](https://github.com/kkent030315/SHA256-Algorithm-CSharp)
+- [Route-Search Using C#](https://github.com/kkent030315/Route-Search-Algorithm)
