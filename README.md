@@ -4,7 +4,7 @@
 
 # Socials
 
-![IMAGE](social3.png)
+![IMAGE](social3-min (1).png)
 
 Github.io: https://kkent030315.github.io/  
 
