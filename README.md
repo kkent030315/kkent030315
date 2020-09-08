@@ -2,7 +2,7 @@
 ~$ cat kkent030315
 ```
 
-# Socials
+# 🌐 Socials
 
 ![IMAGE](https://github.com/kkent030315/kkent030315/blob/master/social3.png)
 
