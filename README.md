@@ -4,13 +4,13 @@
 ~$ cat kkent030315
 ```
 
-# 🌐 Socials
+# Links
 
 - Github.io: https://kkent030315.github.io/  
 - Github: https://github.com/kkent030315  
 - Qiita: https://qiita.com/kkent030315
 
-# 💥 Algorithms
+# Algorithms
 
 [NIST(アメリカ国立標準技術研究所)](https://www.nist.gov/)で標準化されている、現代でもメジャーな共通鍵暗号化方式**AES**をC#で実装。`Rijndael`とも呼ばれます。
 - **🔗 [AES Implementation Using C#](https://github.com/kkent030315/CSharp-AES-Algorhythm)**
