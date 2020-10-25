@@ -4,6 +4,14 @@
 ~$ cat kkent030315
 ```
 
+# Environments
+
+- CPU: `AMD Ryzen Threadripper 3960X`
+- RAM: `64GB 3200MHz`
+- GPU: `NVIDIA GeForce RTX 2070 SUPER`
+- Storage: `M.2 PG3VNF CSSD-M2B1TPG3VNF`
+- MotherBoard: `ASRock TRX40 Taichi`
+
 # Links
 
 **📷Instagram: https://instagram.com/kkent030315**
