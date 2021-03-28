@@ -28,6 +28,3 @@ I'm at everywhere.
 ![](https://img.shields.io/badge/%F0%9F%91%8F-Game%20Hacking-%2306590D?style=for-the-badge&logo=appveyor)
 ![](https://img.shields.io/badge/%F0%9F%99%8C-AntiCheats-FEEE00?style=for-the-badge&logo=appveyor)
 ![](https://img.shields.io/badge/%E2%98%9D%EF%B8%8F-CyberSecurity-%2358366F?style=for-the-badge&logo=appveyor)
-
-I've bypassed BattlEye & EasyAntiCheat constantly in 2019-2021,  
-also bypassed Nexon Game Security within 30 minutes.
